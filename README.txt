@@ -1,3 +1,5 @@
+# AWS services assignment   -   By Jens Kersemans
+
 This pythonscript requires boto3. Install this with the following commands:
 pip install boto3
 
